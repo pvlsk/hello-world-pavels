@@ -1,6 +1,8 @@
 <h1>Day 1: January 5, 2018</h1>
 
-**Today's Progress**: Solved <a href='https://www.hackerrank.com/challenges/interviews/problem'>Hackerrank's challenge "Interviews" (hard)</a>
+**Today's Progress**: 
+1. Solved <a href='https://www.hackerrank.com/challenges/interviews/problem'>Hackerrank's challenge "Interviews" (hard)</a>
+2. Continue practising "SQL Cookbook" in Postgres. pages 109-112 (Working with strings)
 
 **Thoughts:** Slightly struggled with joining nested queries
 
