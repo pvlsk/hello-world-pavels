@@ -1,6 +1,6 @@
 <h1>Day 1: January 5, 2018</h1>
 
-**Today's Progress**: Solved Hackerrank's challenge "Interviews" (hard)
+**Today's Progress**: Solved <a href='https://www.hackerrank.com/challenges/interviews/problem'>Hackerrank's challenge "Interviews" (hard)</a>
 
 **Thoughts:** Slightly struggled with joining nested queries
 
