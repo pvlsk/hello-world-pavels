@@ -22,3 +22,20 @@ having (sum(coalesce(total_views,0)) + sum(coalesce(total_unique_views,0)) + SUM
 order by 1
 
 ```
+<h1>Day 2: January 6, 2018</h1>
+**Today's Progress**: 
+Wrestled with  <a href='https://www.hackerrank.com/challenges/15-days-of-learning-sql'>15 Days of Learning SQL" (hard)</a>
+**Thoughts:** Found it too challenging
+
+<h1>Day 3: January 7, 2018</h1>
+**Today's Progress**: 
+1. Continued to wrestle with  <a href='https://www.hackerrank.com/challenges/15-days-of-learning-sql'>15 Days of Learning SQL" (hard)</a>
+2. Completed SQL Cookbooks 6.8: Ordering by parts of a string
+
+**Thoughts:** 
+Found it challenging to create multi layer of derived tables in Hackerrank. 
+I need more practice with Replace and Translate functions. Very cool when you do it one step at the time starting with deepest inner functions.
+
+
+
+
