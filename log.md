@@ -36,6 +36,26 @@ Wrestled with  <a href='https://www.hackerrank.com/challenges/15-days-of-learnin
 Found it challenging to create multi layer of derived tables in Hackerrank. 
 I need more practice with Replace and Translate functions. Very cool when you do it one step at the time starting with deepest inner functions.
 
+<h1>Day 4: January 8, 2018</h1>
+**Today's Progress**: 
+- Completed delimited list conversion from the SQL Cook book.
+- Also tried to wrestle with weekly report in Alation. Need to figure out why ad_cost is higher then total spent in Campaign Manager.
+
+**Thoughts:**  Feeling progress overall, but I really need to start building these weekly reports for my clients and generate more ideas at the same time on how to improve performance dashboards: For example, adding unique members reached per week (and % change), view-through impressions, and many more.
 
 
 
+
+<h1>Day 5: January 9, 2018</h1>
+**Today's Progress**: 
+- Worked on converting delimited lists into numeric rows for each value in the list. Learned a new function called split_part
+
+**Thoughts:** Felt like it was difficult to dissect the query starting from the most inner ones. A bit disappointing that each dbms requires a slightly different appriach depending on functions available.
+
+<h1>Day 6: January 10, 2018</h1>
+**Today's Progress**: 
+**Thoughts:** 
+
+<h1>Day 7: January 11, 2018</h1>
+**Today's Progress**: 
+**Thoughts:** 
