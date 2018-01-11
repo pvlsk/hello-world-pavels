@@ -23,11 +23,13 @@ order by 1
 
 ```
 <h1>Day 2: January 6, 2018</h1>
+
 **Today's Progress**: 
 Wrestled with  <a href='https://www.hackerrank.com/challenges/15-days-of-learning-sql'>15 Days of Learning SQL" (hard)</a>
 **Thoughts:** Found it too challenging
 
 <h1>Day 3: January 7, 2018</h1>
+
 **Today's Progress**: 
 1. Continued to wrestle with  <a href='https://www.hackerrank.com/challenges/15-days-of-learning-sql'>15 Days of Learning SQL" (hard)</a>
 2. Completed SQL Cookbooks 6.8: Ordering by parts of a string
@@ -37,6 +39,7 @@ Found it challenging to create multi layer of derived tables in Hackerrank.
 I need more practice with Replace and Translate functions. Very cool when you do it one step at the time starting with deepest inner functions.
 
 <h1>Day 4: January 8, 2018</h1>
+
 **Today's Progress**: 
 - Completed delimited list conversion from the SQL Cook book.
 - Also tried to wrestle with weekly report in Alation. Need to figure out why ad_cost is higher then total spent in Campaign Manager.
@@ -47,15 +50,18 @@ I need more practice with Replace and Translate functions. Very cool when you do
 
 
 <h1>Day 5: January 9, 2018</h1>
+
 **Today's Progress**: 
 - Worked on converting delimited lists into numeric rows for each value in the list. Learned a new function called split_part
 
 **Thoughts:** Felt like it was difficult to dissect the query starting from the most inner ones. A bit disappointing that each dbms requires a slightly different appriach depending on functions available.
 
 <h1>Day 6: January 10, 2018</h1>
+
 **Today's Progress**: 
 **Thoughts:** 
 
 <h1>Day 7: January 11, 2018</h1>
+
 **Today's Progress**: 
 **Thoughts:** 
