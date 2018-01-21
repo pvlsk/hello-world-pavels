@@ -1,4 +1,17 @@
 
+<h1>Day 6: January 20, 2018</h1>
+
+**Today's Progress**: 
+- SQLs Cookbook's. Completed Chapter 7, "Working with numbers", started Chapter 8.
+- Alation SQL. Created weekly report
+- Data Analysis using SQL and Excel. Started reading intro.
+- Signed up for Codewars.com
+
+**Thoughts:** 
+Last week I had lots of time spent on creating slides.
+Alation SQL Project. Finally I created pretty accurate weekly report. One small downside is that conversion numbers are slightly off, but that's ok. The most important is that I figered
+
+
 <h1>Day 6: January 10, 2018</h1>
 
 **Today's Progress**: 
