@@ -1,5 +1,5 @@
 
-<h1>Day 6: January 20, 2018</h1>
+<h1>Day 7: January 20, 2018</h1>
 
 **Today's Progress**: 
 - SQLs Cookbook's. Completed Chapter 7, "Working with numbers", started Chapter 8.
